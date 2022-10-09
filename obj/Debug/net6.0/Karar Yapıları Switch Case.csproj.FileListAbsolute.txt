@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\bin\Debug\net6.0\Karar Yapıları Switch Case.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\bin\Debug\net6.0\Karar Yapıları Switch Case.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\bin\Debug\net6.0\Karar Yapıları Switch Case.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\bin\Debug\net6.0\Karar Yapıları Switch Case.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\bin\Debug\net6.0\Karar Yapıları Switch Case.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\refint\Karar Yapıları Switch Case.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\Karar Yapıları Switch Case.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Karar Yapıları Switch Case\obj\Debug\net6.0\ref\Karar Yapıları Switch Case.dll
